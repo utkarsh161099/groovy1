@@ -1,5 +1,5 @@
-job("ak1_groovy"){
-	   description("devtask6.1")
+job("devtask6.1"){
+	   description("job1")
 	  scm{
 	     github('https://github.com/utkarsh161099/groovy' , 'master')
 	}
